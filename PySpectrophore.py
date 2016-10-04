@@ -16,7 +16,6 @@ import numpy as np
 #personal libraries
 from spectrophores.spectrophore import spectrophoreCalculator
 
-import time
 import scipy
 import scipy.linalg
 import math
