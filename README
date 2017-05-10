@@ -1,0 +1,15 @@
+# Spectrophores
+
+  This module contains the code to calculated spectrophores. It is a wrapper to
+  the RDKit python library (www.python.org)
+
+
+# Installation
+
+  > sudo python setup.py install
+
+  This installs the following:
+  - module 'spectrophore.py' in the default third-party modules directory;
+  - script 'sdf2spectrophore.py' in the default third-party script directory.
+
+
