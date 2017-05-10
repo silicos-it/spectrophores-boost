@@ -6,7 +6,7 @@
 
 # Installation
 
-  Step 1 - download the 'spectrophore-1.0.1.tar.gz' file
+  Step 1 - download the 'spectrophore-1.0.1.tar.gz' file from the 'dist/' folder
  
   Step 2 - untar the downloaded file and chdir into the created directory:
 
