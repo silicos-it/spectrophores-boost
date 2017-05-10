@@ -6,10 +6,29 @@
 
 # Installation
 
-  > sudo python setup.py install
+  Step 1 - download the 'spectrophore-1.0.1.tar.gz' file
+ 
+  Step 2 - untar the downloaded file and chdir into the created directory:
 
-  This installs the following:
-  - module 'spectrophore.py' in the default third-party modules directory;
-  - script 'sdf2spectrophore.py' in the default third-party script directory.
+    > tar xvf spectrophore-1.0.1.tar.gz
+    > cd spectrophore-1.0.1
 
+  Step 3 - install:
+
+    > sudo python setup.py install
+
+  The installation process installs the following:
+
+  - module 'spectrophore.py' is installed in the default third-party modules directory
+    (for example '/usr/local/lib/python2.7/dist-packages/');
+
+  - script 'sdf2spectrophore.py' is installed in the default third-party script directory
+    (for example '/usr/local/bin/')
+
+
+# Documentation
+
+  All required documentation is contained in two ipython notebook files:
+  - 'tutorial.ipynb'
+  - 'documentation/manual.ipynb'
 
