@@ -29,6 +29,6 @@
 # Documentation
 
   All required documentation is contained in two ipython notebook files:
-  - 'tutorial.ipynb'
+  - 'documentation/tutorial.ipynb'
   - 'documentation/manual.ipynb'
 
